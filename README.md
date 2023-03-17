@@ -1,0 +1,5 @@
+- JDK: `1.8`
+- MAVEN: `3.6.3`
+- Mvn_CMD: `mvn clean package -DskipTests`
+- Run_CMD: `java -jar   target/Spring-Boot-App-0.0.1-SNAPSHOT.jar` 
+- URL: http://localhost:8080/hello
